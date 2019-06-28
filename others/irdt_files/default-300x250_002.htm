@@ -1,0 +1,35 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"><title>Banner</title><style>html, body {margin:0;padding:0;overflow:hidden;}</style></head>
+<body>
+
+<script>
+var width  = '300';
+var height = '250';
+var ads    = [
+	{
+		img:'/default-ads/proboards.com/300x250/1.jpg',
+		href:'https://www.proboards.com'
+	},
+	{
+		img:'/default-ads/proboards.com/300x250/2.jpg',
+		href:'https://www.proboards.com'
+	},
+	{
+		img:'/default-ads/proboards.com/300x250/3.jpg',
+		href:'https://www.proboards.com'
+	}
+];
+for(var i=0; i<7; i++) {
+        ads.push({
+                img: '/default-ads/proboards.com/300x250/pb-'+(i+1)+'.jpg',
+                href:'https://www.proboards.com'
+        });
+}
+
+var ad = ads[Math.floor(Math.random() * ads.length)];
+document.write('<a href="'+ad.href+'" target="_blank"><img src="'+ad.img+'" width="'+width+'" height="'+height+'"></a>');
+</script><a href="https://www.proboards.com/" target="_blank"><img src="default-300x250_data_002/pb-7.jpg" width="300" height="250"></a>
+
+
+
+</body></html>

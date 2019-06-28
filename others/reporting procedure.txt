@@ -1,0 +1,17 @@
+Reporting.
+
+1st step: ATTENTION/ATTENTION ON DECK command will be called
+
+2nd step: officer/WO will say someone name and ask to report (e.g officer: Airgod PROnoob report!)
+
+3rd step: the reporter will say him/her rank and Reporting as ordered sir/ma'am! (e.g Airgod: Airgod PROnoob reporting as ordered sir!)
+
+4th step: officer will demote/promote/reward/warn/discharge you.
+
+5th step: then officer will say "Dismissed!"
+
+6th step: you will say Sir/ma'am!
+
+7th step: you will wait officer say carry on/at ease
+
+8th step: then you can continue what you were doing

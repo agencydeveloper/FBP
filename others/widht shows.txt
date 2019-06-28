@@ -1,0 +1,18 @@
+<div id="output_width"></div>
+  <script>
+  var showWidth = 1;
+  if(showWidth == 1){
+    $(document).ready(function(){
+      $(window).resize(function(){
+        var width=$(window).width();
+        document.getElementById('output_width').innerHTML="Window Width: " + width.toString();
+      });
+    });
+  }
+</script>
+
+<p id="demo"></p>
+<script>
+  var w = window.innerWidth;
+  document.getElementById("demo").innerHTML = "Width: " + w;
+</script>

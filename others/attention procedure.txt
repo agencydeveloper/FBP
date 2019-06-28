@@ -1,0 +1,13 @@
+ATTENTION Procedure
+
+1st step: ATTENTION/ATTENTION ON DECK  command will be called by an officer/sentry/DDO.
+2nd step:if attention command called, only front row will stand up, if attention on deck called, everyone will stand up.
+3rd step: officer will say what he want to say,
+4th step: At ease/Carry on command will be called, then you can sit and continue what you were doing.
+ATTENTION Procedure,Sentry guide
+1st step: officer will step on rollers,you will check him/her on MPTS/PTS.
+2nd step:if officer motto/badges/uniform were correct you will let him in.
+3rd step: you will move 1 block from your chair and salute officer.
+4th step: you will say ATTENTION in red text if officer is O1-O3 you will say ATTENTION ON DECK if officer O4-ES1 (if officer whisper you carry on you will not call him/her ATTENTION/ATTENTION ON DECK
+5th step: if officer have military medal 3 you will say HAND, Salute and everyone will salute officer
+6th step: officer will say carry on/at ease then you can continue holding sentry

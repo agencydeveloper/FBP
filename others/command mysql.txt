@@ -1,0 +1,47 @@
+CREATE TABLE employee (
+  id INT NOT NULL AUTO_INCREMENT,
+  name VARCHAR(20) DEFAULT NULL,
+  rank VARCHAR(20) DEFAULT NULL,
+  updatedby VARCHAR(20) DEFAULT NULL,
+  updatedate VARCHAR(20) DEFAULT NULL,
+  feats VARCHAR(30) DEFAULT NULL,
+  PRIMARY KEY (id)
+  );
+
+CREATE TABLE logindetail (
+  id INT NOT NULL AUTO_INCREMENT,
+  name VARCHAR(20) DEFAULT NULL,
+  hname VARCHAR(30) DEFAULT NULL,
+  email VARCHAR(40) DEFAULT NULL,
+  password VARCHAR(30) DEFAULT NULL,
+  PRIMARY KEY (id)
+  );
+
+<input list="ranks" name="rank" placeholder= " Ranks ">
+        <datalist id="ranks">
+            <option value="E-1 Private">
+            <option value="E-2 Private Second Class">
+            <option value="E-3 Private First Class">
+            <option value="E-4 Corporal">
+            <option value="E-5 Sergeant">
+            <option value="E-6 Staff Sergeant">
+            <option value="E-7 Sergeant First Class">
+            <option value="E-8 Master Sergeant">
+            <option value="E-9 Sergeant Major">
+            <option value="WO-1 Warrant Officer 1">
+            <option value="WO-2 Warrant Officer 2">
+            <option value="WO-3 Warrant Officer 3">
+            <option value="WO-4 Warrant Officer 4">
+            <option value="WO-5 Warrant Officer 5">
+            <option value="O-1 Second Lieutenant">
+            <option value="O-2 First Lieutenant">
+            <option value="O-3 Captain">
+            <option value="O-4 Major">
+            <option value="O-5 Lieutenant Colonel">
+            <option value="O-6 Colonel">
+            <option value="O-7 Brigadier General">
+            <option value="O-8 Major General">
+            <option value="O-9 Lieutenant General">
+            <option value="O-10 General">  
+        </datalist>
+        <br>
